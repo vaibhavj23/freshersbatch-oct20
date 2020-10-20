@@ -1,2 +1,4 @@
 javascript
-function() {}
+function() {
+	var i;
+}
