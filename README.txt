@@ -1,0 +1,1 @@
+The folder contains HTML CSS JavaScript assignments
